@@ -1,3 +1,4 @@
+![logo](https://github.com/Dua-Fatima-khan/Dua-Fatima-khan/blob/main/Banner.png.png)
 <h1 align="center">Hi 👋, I'm Dua Fatima ♡</h1>
 <h3 align="center">👩‍💻 Dua Fatima | IT Professional | AI Enthusiast | Freelance Developer | Mentor</h3>
 
