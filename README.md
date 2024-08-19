@@ -1,4 +1,4 @@
-# Hi there! 👋
+# Assalam u Alaikum ✨✨
 
 ## I'm Dua Fatima
 
@@ -14,7 +14,7 @@ I'm a passionate **Computer Scientist** and **Developer** with expertise in **HT
 
 ### 🌟 Projects
 
-- **[Amazon Website Clone](#)** 🛒: A responsive e-commerce website clone.
+- **[Amazon Website Clone](#)** 🛒: A  e-commerce website clone.
 - **[LinkedIn Clone](#)** 🌐: A professional networking site replica.
 - **[Sidcup Family Golf Website Clone](#)** ⛳: An interactive website for a golf club.
 - **45 TypeScript Assignments** 📚: A comprehensive collection of TypeScript assignments covering various aspects of the language.
