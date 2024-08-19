@@ -11,16 +11,18 @@ I'm a **Computer Scientist** and **Developer** with skills in **HTML**, **CSS**,
 - **Development:** Web Development, CLI Applications, UI/UX Design
 - **Tools:** MS Office, Graphic Design, Video Editing
 
+
 ### 🌟 Projects
 
 - [Amazon Website Clone 🛒](#)
 - [LinkedIn Clone 🌐](#)
-- [Sidcup Family Golf Website Clone ⛳](#)
-- [45 TypeScript Assignments 📚](#)
-- [CLI Arithmetic Calculator 🧮](#)
-- [CLI ATM Application 🏧](#)
+- [Sidcup Family Golf Website Clone ⛳](https://github.com/Dua-Fatima-khan/DF-SidcupGolfClone.git)
+- [45 TypeScript Assignments 📚](https://github.com/Dua-Fatima-khan/Typescript-45-Assignments.git)
+- [CLI Arithmetic Calculator 🧮](https://github.com/Dua-Fatima-khan/CLI-calculator.git)
+- [CLI ATM Application 🏧](https://github.com/Dua-Fatima-khan/CLI_ATM.git)
 
 ### 🎥 YouTube Channel
+
 
 - [Coder's School](https://www.youtube.com/channel/UCeZpinT3OCDGkFZ4HBGlIQw)
 
