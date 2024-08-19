@@ -1,49 +1,47 @@
-# Assalam u Alaikum ✨
+### Assalam u Alaikum!! (_Peace be Upon You_) ♥️
 
-## I'm Dua Fatima
+Welcome to my GitHub profile! 🌟
 
-I'm a **Computer Scientist** and **Developer** with skills in **HTML**, **CSS**, **JavaScript**, and **TypeScript**. Currently pursuing a **Bachelor's in Computer Science** and exploring **GenAI**, **Metaverse**, and **Web 3.0**. 🚀
+This is _**Dua Fatima**_,
 
-### 🔧 Technologies & Tools
+a passionate developer and designer with a keen interest in coding, design, and technology. Here's a glimpse into my journey and the work I am dedicated to. 🚀
 
-- **Languages:** HTML, CSS, JavaScript, TypeScript, SQL, C
-- **Frameworks & Libraries:** GSAP, ScrollTrigger
-- **Development:** Web Development, CLI Applications, UI/UX Design
-- **Tools:** MS Office, Graphic Design, Video Editing
+## 🚀 About Me
 
+I am a **Bachelor's student in Computer Science** at Virtual University, currently exploring the realms of **AI, Metaverse, and Web 3.0**. I have a diverse skill set that includes:
 
-### 🌟 Projects
+- **Front-end Development:** HTML, CSS, JavaScript, TypeScript, GSAP 💻
+- **Back-end Development:** C, SQL 🛠️
+- **Design & Creativity:** Graphic Design, Logo Design, Video Editing 🎨
+- **Software & Tools:** MS Office Suite, Inpage 📑
 
-- [Amazon Website Clone 🛒](#)
-- [LinkedIn Clone 🌐](#)
-- [Sidcup Family Golf Website Clone ⛳](https://github.com/Dua-Fatima-khan/DF-SidcupGolfClone.git)
-- [45 TypeScript Assignments 📚](https://github.com/Dua-Fatima-khan/Typescript-45-Assignments.git)
-- [CLI Arithmetic Calculator 🧮](https://github.com/Dua-Fatima-khan/CLI-calculator.git)
-- [CLI ATM Application 🏧](https://github.com/Dua-Fatima-khan/CLI_ATM.git)
+I am also the creator of **"Coder's School"**, a YouTube channel where I share insights into coding, MS Office, and more. [Check it out here!](https://www.youtube.com/channel/UCeZpinT3OCDGkFZ4HBGlIQw) 📺
 
-### 🎥 YouTube Channel
+## 🔭 Current Projects
 
+- **[Sidcup Family Golf Website Clone](#):** A project showcasing my skills in HTML, CSS, and JavaScript animations. ⛳
+- **[LinkedIn Clone](#):** An example of my proficiency in creating social media platforms using modern web technologies. 🔗
+- **[Amazon Website Clone](#):** A comprehensive HTML and CSS project demonstrating my understanding of e-commerce platforms. 🛒
 
-- [Coder's School](https://www.youtube.com/channel/UCeZpinT3OCDGkFZ4HBGlIQw)
+## 🌟 Skills
 
-### 🎨 Art & Design
+- **Programming Languages:** TypeScript, JavaScript, C, SQL 🧑‍💻
+- **Frameworks & Libraries:** GSAP, ScrollTrigger 🔧
+- **Design Tools:** Canva, Adobe Suite 🖌️
+- **Development Tools:** Yarn, Git 🧩
 
-- [My Art Business](#)
+## 📫 Contact Me
 
-### 📚 Teaching & Mentoring
+Feel free to reach out to me for collaborations or queries:
 
-Passionate about teaching in **IT**, **Islamic Studies**, **Urdu Adab**, **Art**, and **Computer Science**. 📘🧠
+- **Email:** [officialduafatima64648@gmail.com](mailto:officialduafatima64648@gmail.com) 📧
+- **LinkedIn:** [Dua Fatima's LinkedIn](https://www.linkedin.com/in/dua-fatima-906208258/) 🌐
 
-### 📈 Get in Touch
-
-If you have any issues with programming or coding, need assistance, or are interested in hiring me for freelancing or job opportunities, feel free to reach out. I’m open to collaborations! 🤝
-
-- **Email:** [officialduafatima64648@gmail.com](mailto:officialduafatima64648@gmail.com)
-
-### 🔗 Connect with Me
-
-- **GitHub:** [GitHub Profile](https://github.com/your-username) 💻📂
-- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/dua-fatima-906208258/) 🌐
+Thank you for visiting my GitHub profile! 🚀✨
 
 ---
-Thank you for visiting my GitHub profile ☺️
+
+*قُلْ رَبِّ زِدْنِي عِلْمًا*  
+**Say, 'My Lord, increase me in knowledge.'** (Quran 20:114)
+
+*“The only way to do great work is to love what you do.” – Steve Jobs* 💖
