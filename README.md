@@ -74,3 +74,4 @@ Tools: Git, GitHub, Figma, Canva, VS Code, Adobe Creative Cloud
 ##  GitHub Stats & Activity
 
 ![Dua Fatima's ](https://github-readme-stats.vercel.app/api?username=Dua-Fatima-khan&show_icons=true&theme=radical)
+
