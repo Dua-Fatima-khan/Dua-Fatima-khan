@@ -1,47 +1,80 @@
-### Assalam u Alaikum!! (_Peace be Upon You_) ♥️
+<h1 align="center">Dua Fatima </h1>
+<h3 align="center">Next.js Developer | Data Scientist | Graphic Designer ✨</h3>
+<p align="left">
+  Assalamu Alaikum (Peace Be Upon You) 🌸<br>
+  I’m <strong>Dua Fatima bint Masroor Ahmed</strong>, an aspiring Computer Scientist and tech enthusiast with a deep passion for creating seamless, user-friendly web experiences.<br>
+  As a Bachelor’s student in Computer Science at Virtual University, I’m continuously expanding my knowledge and expertise.<br>
+  Currently diving into cutting-edge fields like GenAI, Metaverse, and Web 3.0 through the Governor Sindh Initiative, shaping the future of technology. 
+</p>
 
-Welcome to my GitHub profile! 🌟
+---
+## Tech Stack
 
-This is _**Dua Fatima**_,
 
-a passionate developer and designer with a keen interest in coding, design, and technology. Here's a glimpse into my journey and the work I am dedicated to. 🚀
+Frontend: React.js, Next.js, Tailwind CSS, HTML5, CSS3, Bootstrap  
+Backend (Basics): Node.js, Sanity CMS  
+Python: Pandas, NumPy, Seaborn, Matplotlib, Scikit-learn, TensorFlow, Deep Learning, Data Visualization  
+Tools: Git, GitHub, Figma, Canva, VS Code, Adobe Creative Cloud  
 
-## 🚀 About Me
-
-I am a **Bachelor's student in Computer Science** at Virtual University, currently exploring the realms of **AI, Metaverse, and Web 3.0**. I have a diverse skill set that includes:
-
-- **Front-end Development:** HTML, CSS, JavaScript, TypeScript, GSAP 💻
-- **Back-end Development:** C, SQL 🛠️
-- **Design & Creativity:** Graphic Design, Logo Design, Video Editing 🎨
-- **Software & Tools:** MS Office Suite, Inpage 📑
-
-I am also the creator of **"Coder's School"**, a YouTube channel where I share insights into coding, MS Office, and more. [Check it out here!](https://www.youtube.com/channel/UCeZpinT3OCDGkFZ4HBGlIQw) 📺
-
-## 🔭 Current Projects
-
-- **[Sidcup Family Golf Website Clone](#):** A project showcasing my skills in HTML, CSS, and JavaScript animations. ⛳
-- **[LinkedIn Clone](#):** An example of my proficiency in creating social media platforms using modern web technologies. 🔗
-- **[Amazon Website Clone](#):** A comprehensive HTML and CSS project demonstrating my understanding of e-commerce platforms. 🛒
-
-## 🌟 Skills
-
-- **Programming Languages:** TypeScript, JavaScript, C, SQL 🧑‍💻
-- **Frameworks & Libraries:** GSAP, ScrollTrigger 🔧
-- **Design Tools:** Canva, Adobe Suite 🖌️
-- **Development Tools:** Yarn, Git 🧩
-
-## 📫 Contact Me
-
-Feel free to reach out to me for collaborations or queries:
-
-- **Email:** [officialduafatima64648@gmail.com](mailto:officialduafatima64648@gmail.com) 📧
-- **LinkedIn:** [Dua Fatima's LinkedIn](https://www.linkedin.com/in/dua-fatima-906208258/) 🌐
-
-Thank you for visiting my GitHub profile! 🚀✨
 
 ---
 
-*قُلْ رَبِّ زِدْنِي عِلْمًا*  
-**Say, 'My Lord, increase me in knowledge.'** (Quran 20:114)
+## Project Highlights
 
-*“The only way to do great work is to love what you do.” – Steve Jobs* 💖
+|  **Project**                             | 🛠 **Tech Stack**                                               |
+|-------------------------------------------|-----------------------------------------------------------------|
+| 🛍️ Nike Ecommerce Website                 | Next.js, Tailwind CSS, Sanity CMS, Context API                  |
+| 🛒 Estore                                  | Next.js, TypeScript, Tailwind CSS                               |
+| 📝 Elysium Blog                            | Next.js, Tailwind CSS, Dynamic Routing                          |
+| 📖 Soulscript (Motivational Story Gen.)  | Python, Streamlit                                               |
+| 🚗 Armin Motors Car Showroom              | Next.js, Tailwind CSS, TypeScript                               |
+| 🍰 Bakery Website                          | HTML5, CSS3, Bootstrap                                          |
+| 🌐 Modern Next.js Portfolio                | Next.js, Tailwind CSS, Figma                                    |
+| 🛍️ Amazon Clone                            | HTML5, CSS3, JavaScript                                         |
+| 📄 Resume Generator                        | HTML5, CSS3, JS, TypeScript                                     |
+| ⏱️ Pomodoro Timer                          | HTML5, CSS3, JavaScript                                         |
+| ✅ To-Do App                                | HTML5, CSS3, JavaScript                                         |
+| ⛳ Sidcup Family Golf Clone                | HTML5, CSS3, JavaScript, GSAP                                   |
+| 🧹 Data Sweeper                            | Python, Streamlit, Pandas                                       |
+| 🔐 Password Generator                      | Python, Streamlit                                               |
+| 📏 Unit Converter                          | Python, Streamlit                                               |
+| 📚 Library Manager                         | Python, Streamlit                                               |
+| ⚖️ BMI Calculator                          | Python, Streamlit                                               |
+
+---
+
+##  Services I Offer
+
+- **Web Development:** Responsive, modern websites with Next.js, TypeScript & Tailwind CSS  
+- **E-commerce Web Apps:** Scalable online stores with secure payment integration  
+- **Graphic & Video Editing:** Logo design, flyers, and content edits for creators & businesses  
+- **MS Office Expert:** Document & presentation solutions, data entry, databases, and spreadsheets  
+
+---
+
+## Connect With Me
+
+| Platform         | 🔗 Link                                                                 |
+|---------------------|------------------------------------------------------------------------|
+| YouTube          | [Coder's School](https://www.youtube.com/channel/UCeZpinT3OCDGkFZ4HBGlIQw) |
+| LinkedIn         | [Dua Fatima](https://www.linkedin.com/in/dua-fatima-906208258/)        |
+| Medium           | [@duafatima64648](https://medium.com/@duafatima64648)  |
+| WhatsApp Channel | [Python Seekers](https://www.whatsapp.com/channel/0029Vb4eKzX1iUxadBElHq1G) |
+| Email            | [officialduafatima64648@gmail.com](mailto:officialduafatima64648@gmail.com) |
+
+---
+
+## *"Success is when your signature becomes an autograph."* — Abdul Kalam
+<p align="center">
+  💖 Thanks for visiting my profile — don’t forget to  my repos!
+  <br/>
+  Don't forget to follow my github!
+</p>
+
+##  GitHub Stats & Activity
+
+![Dua Fatima's ](https://github-readme-stats.vercel.app/api?username=Dua-Fatima-khan&show_icons=true&theme=radical)
+
+![Dua Fatima's GitHub Contribution Calendar](https://github-readme-activity-graph.cyclic.app/graph?username=Dua-Fatima-khan&theme=github)
+
+
