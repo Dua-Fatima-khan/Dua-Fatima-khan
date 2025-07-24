@@ -1,77 +1,131 @@
-<h1 align="center">Dua Fatima </h1>
-<h3 align="center">Next.js Developer | Data Scientist | Graphic Designer ✨</h3>
-<p align="left">
-  Assalamu Alaikum (Peace Be Upon You) 🌸<br>
-  I’m <strong>Dua Fatima bint Masroor Ahmed</strong>, an aspiring Computer Scientist and tech enthusiast with a deep passion for creating seamless, user-friendly web experiences.<br>
-  As a Bachelor’s student in Computer Science at Virtual University, I’m continuously expanding my knowledge and expertise.<br>
-  Currently diving into cutting-edge fields like GenAI, Metaverse, and Web 3.0 through the Governor Sindh Initiative, shaping the future of technology. 
-</p>
 
----
-## Tech Stack
-
-
-Frontend: React.js, Next.js, Tailwind CSS, HTML5, CSS3, Bootstrap  
-Backend (Basics): Node.js, Sanity CMS  
-Python: Pandas, NumPy, Seaborn, Matplotlib, Scikit-learn, TensorFlow, Deep Learning, Data Visualization  
-Tools: Git, GitHub, Figma, Canva, VS Code, Adobe Creative Cloud  
-
-
----
-
-## Project Highlights
-
-|  **Project**                             | 🛠 **Tech Stack**                                               |
-|-------------------------------------------|-----------------------------------------------------------------|
-| 🛍️ Nike Ecommerce Website                 | Next.js, Tailwind CSS, Sanity CMS, Context API                  |
-| 🛒 Estore                                  | Next.js, TypeScript, Tailwind CSS                               |
-| 📝 Elysium Blog                            | Next.js, Tailwind CSS, Dynamic Routing                          |
-| 📖 Soulscript (Motivational Story Gen.)  | Python, Streamlit                                               |
-| 🚗 Armin Motors Car Showroom              | Next.js, Tailwind CSS, TypeScript                               |
-| 🍰 Bakery Website                          | HTML5, CSS3, Bootstrap                                          |
-| 🌐 Modern Next.js Portfolio                | Next.js, Tailwind CSS, Figma                                    |
-| 🛍️ Amazon Clone                            | HTML5, CSS3, JavaScript                                         |
-| 📄 Resume Generator                        | HTML5, CSS3, JS, TypeScript                                     |
-| ⏱️ Pomodoro Timer                          | HTML5, CSS3, JavaScript                                         |
-| ✅ To-Do App                                | HTML5, CSS3, JavaScript                                         |
-| ⛳ Sidcup Family Golf Clone                | HTML5, CSS3, JavaScript, GSAP                                   |
-| 🧹 Data Sweeper                            | Python, Streamlit, Pandas                                       |
-| 🔐 Password Generator                      | Python, Streamlit                                               |
-| 📏 Unit Converter                          | Python, Streamlit                                               |
-| 📚 Library Manager                         | Python, Streamlit                                               |
-| ⚖️ BMI Calculator                          | Python, Streamlit                                               |
-
----
-
-##  Services I Offer
-
-- **Web Development:** Responsive, modern websites with Next.js, TypeScript & Tailwind CSS  
-- **E-commerce Web Apps:** Scalable online stores with secure payment integration  
-- **Graphic & Video Editing:** Logo design, flyers, and content edits for creators & businesses  
-- **MS Office Expert:** Document & presentation solutions, data entry, databases, and spreadsheets  
-
----
-
-## Connect With Me
-
-| Platform         | 🔗 Link                                                                 |
-|---------------------|------------------------------------------------------------------------|
-| YouTube          | [Coder's School](https://www.youtube.com/channel/UCeZpinT3OCDGkFZ4HBGlIQw) |
-| LinkedIn         | [Dua Fatima](https://www.linkedin.com/in/dua-fatima-906208258/)        |
-| Medium           | [@duafatima64648](https://medium.com/@duafatima64648)  |
-| WhatsApp Channel | [Python Seekers](https://www.whatsapp.com/channel/0029Vb4eKzX1iUxadBElHq1G) |
-| Email            | [officialduafatima64648@gmail.com](mailto:officialduafatima64648@gmail.com) |
-
----
-
-## *"Success is when your signature becomes an autograph."* — Abdul Kalam
+<h3  align="center" >Welcome to the GitHub Space 👋 <h3/>
+<h1 align="center">
+   I'm Dua Fatima!   
+</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&width=600&lines=Building+Scalable+WebApps+with+Next.js;Full+Stack+Web+Developer;UI+%26+Graphic+Designer;Founder+of+IlmCode;Passionate+Learner+of+AI;Web+3.0;BSCS+Undergraduate;+Tech+Educator;Content+Creator" alt="Typing SVG" />
+</h1>
 <p align="center">
-  💖 Thanks for visiting my profile — don’t forget to  my repos!
-  <br/>
-  Don't forget to follow my github!
+  <img src="https://komarev.com/ghpvc/?username=Dua-Fatima-khan&label=Profile%20Views&color=f78da7&style=flat" alt="profile-views" />
+</p>
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="coding-gif" />
 </p>
 
-##  GitHub Stats & Activity
+---
 
-![Dua Fatima's ](https://github-readme-stats.vercel.app/api?username=Dua-Fatima-khan&show_icons=true&theme=radical)
+###  **About Me ✍️** 
 
+* **Full Stack Web Developer** and *UI/UX Designer*
+* *Currently pursuing* **BS in Computer Science**
+* *Specializing in* **responsive** and **scalable** web applications using **Next.js**
+* *Passionate about* **intuitive design** and **clean, maintainable code**
+* **Founder of IlmCode** *teaching and building impactful digital products*
+* *Actively exploring* **Generative AI**, **Web 3.0**, and **Agentic AI systems**
+* *Focused on* **user-first experiences** with **purpose-driven technology**
+* *Dedicated to* **continuous learning**, **growth**, and **innovation** in tech
+
+---
+
+### My Tech Arsenal 🤌🏻
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,fastapi,py,cpp,github,vercel,vscode,figma,wordpress,gcp,ai,discord,linkedin,gmail" />
+</p>
+
+---
+
+
+###  Fun Fact 💗
+🌸 I talk to my code more than people sometimes 🌸
+
+---
+
+###  Featured Projects ✨
+
+| Project                         | Description                              |
+|---------------------------------|------------------------------------------|
+| **Care Pulse**                  | Modern Responsive Healthcare Website     |  
+| **Portfolio**                   | Full-Stack Personal Portfolio Website    |
+| **Crypto Agent**                | AI-Powered Crpto Agent  |
+| **Admin Dashboard**             | Responsive Dashboard UI (Data + Charts)  |
+| **Nike Ecommerce Website**      | Full Stack Nike Store -> Figma to Design.                |
+| **Armin Motors Showroom**       | Car Showroom UI Website                  |
+| **Bakery Website**              | Cute, Minimalist Online Bakery Design    |
+| **Elysium Blog**                | Clean and Stylish Blog Website           |
+| **Soulscript**                  | Islamic Blog Website for Reflections     |
+
+
+---
+
+###  GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Dua-Fatima-khan&show_icons=true&theme=tokyonight&hide_border=true" width="450" />
+<p align="center">
+
+</div>
+
+---
+
+###  Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dua-Fatima-khan&theme=react-dark&area=true&hide_border=true" />
+</p>
+
+---
+
+###  Let's Connect 🤍
+
+<p align="center">
+  <!-- Gmail -->
+  <a href="mailto:officialduafatima64648@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/dua-fatima-906208258/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+
+  <!-- GitHub -->
+  <a href="https://github.com/Dua-Fatima-khan">
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+
+  <!-- Coder's School YouTube -->
+  <a href="https://lnkd.in/dTsGprNn">
+    <img src="https://img.shields.io/badge/Coder's School YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube - Coder's School">
+  </a>
+
+  <!-- Fushoor Al Islam YouTube -->
+  <a href="https://lnkd.in/dZrP22g4">
+    <img src="https://img.shields.io/badge/Fushoor Al Islam-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube - Fushoor Al Islam">
+  </a>
+
+  <!-- Medium -->
+  <a href="https://lnkd.in/dfuaX2G5">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium">
+  </a>
+
+  <!-- WhatsApp Channel -->
+  <a href="https://lnkd.in/dnA9BA9A">
+    <img src="https://img.shields.io/badge/WhatsApp Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Channel">
+  </a>
+
+  <!-- Instagram -->
+  <a href="https://lnkd.in/dfbCMyYj">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+</p>
+
+
+---
+
+###  Signature 💖
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=30&duration=4000&pause=800&color=ff8aa1&center=true&vCenter=true&width=700&height=60&lines=~+Created+by+Dua+Fatima+~" alt="Footer Typing SVG" />
+  <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFB6C1&height=100&section=footer"/>
+</p>
+</p>
