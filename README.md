@@ -28,7 +28,8 @@
 
 ---
 
-### My Tech Arsenal 🤌🏻
+<h3>  My Tech Arsenal  <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h3>
+
 <p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,fastapi,py,cpp,github,vercel,vscode,figma,wordpress,gcp,ai,discord,linkedin,gmail" />
 </p>
