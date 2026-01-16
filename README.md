@@ -1,4 +1,4 @@
-<h3  align="center"  >  <img src="https://readme-typing-svg.herokuapp.com?font=Sacramento&size=30&pause=2000&color=292929&background=ffffff&center=true&vCenter=true&random=false&width=300&height=50&lines=Welcome;To+My+Code+World" /><h3/>
+<h3  align="center"  >  <img src="https://readme-typing-svg.herokuapp.com?font=Sacramento&size=30&pause=2000&color=E9C7A1&&center=true&vCenter=true&random=false&width=300&height=50&lines=Welcome;to+My+Code+World" /><h3/>
 <h1 align="center">
    <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=40&pause=2000&color=ffffff&background=BC1124&center=true&vCenter=true&random=false&width=500&height=70&lines=Assalam+u+Alaikum+!;Peace+be+Upon+You+!;This+is+Dua+Fatima+!;Howdy+%3F" alt="Typing SVG" />
 </h1>
