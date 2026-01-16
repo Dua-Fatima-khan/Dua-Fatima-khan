@@ -1,132 +1,127 @@
-
-<h3  align="center" >Welcome to the GitHub Space 👋 <h3/>
+<h3  align="center"  >  <img src="https://readme-typing-svg.herokuapp.com?font=Sacramento&size=30&pause=2000&color=292929&background=ffffff&center=true&vCenter=true&random=false&width=300&height=50&lines=Welcome;To+My+Code+World" /><h3/>
 <h1 align="center">
-   I'm Dua Fatima!   
+   <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=40&pause=2000&color=ffffff&background=BC1124&center=true&vCenter=true&random=false&width=500&height=70&lines=Assalam+u+Alaikum+!;Peace+be+Upon+You+!;This+is+Dua+Fatima+!;Howdy+%3F" alt="Typing SVG" />
 </h1>
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&width=600&lines=Building+Scalable+WebApps+with+Next.js;Full+Stack+Web+Developer;UI+%26+Graphic+Designer;Founder+of+IlmCode;Passionate+Learner+of+AI;Web+3.0;BSCS+Undergraduate;+Tech+Educator;Content+Creator" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Raleway&size=30&pause=2000&color=ffffff&center=true&width=600&lines=Next.js+Developer;Agentic+AI+Engineer;Founder+of+IlmCode" alt="Typing SVG" />
 </h1>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Dua-Fatima-khan&label=Profile%20Views&color=f78da7&style=flat" alt="profile-views" />
-</p>
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="coding-gif" />
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Dua-Fatima-khan&label=Profile%20Views&color=BC1124&style=for-the-badge" alt="profile-views" />
 </p>
 
----
+> I turn ambitious ideas into **digital experiences that inspire, connect, and get remembered.**
 
-###  **About Me ✍️** 
 
-* **Full Stack Web Developer** and *UI/UX Designer*
-* *Currently pursuing* **BS in Computer Science**
-* *Specializing in* **responsive** and **scalable** web applications using **Next.js**
-* *Passionate about* **intuitive design** and **clean, maintainable code**
-* **Founder of IlmCode** *teaching and building impactful digital products*
-* *Actively exploring* **Generative AI**, **Web 3.0**, and **Agentic AI systems**
-* *Focused on* **user-first experiences** with **purpose-driven technology**
-* *Dedicated to* **continuous learning**, **growth**, and **innovation** in tech
+### Want to Know me ?? Lesgoooo !! 
 
----
-
-<h3>  My Tech Arsenal  <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h3>
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,fastapi,py,cpp,github,vercel,vscode,figma,wordpress,gcp,ai,discord,linkedin,gmail" />
-</p>
-
+I’m a **Dreamer & Builder** turning ideas into experiences that people actually *remember*.  
+I combine **Next.js, AI, and design** to craft digital solutions that **solve real problems**.  
+I'm leading **IlmCode**, empowering 1,000+ young minds and championing **women in tech** & **mental health awareness**.  
+ 
 ---
 
 
-###  Fun Fact 💗
-🌸 I talk to my code more than people sometimes 🌸
+<h3>  My Tech Arsenal  </h3>
 
----
+**Core Skills:** Agentic AI | Next.js | Python | Prompt Engineering | OpenAI SDK
 
-###  Featured Projects ✨
 
-| Project                         | Description                              |
-|---------------------------------|------------------------------------------|
-| **Care Pulse**                  | Modern Responsive Healthcare Website     |  
-| **Portfolio**                   | Full-Stack Personal Portfolio Website    |
-| **Crypto Agent**                | AI-Powered Crpto Agent  |
-| **Admin Dashboard**             | Responsive Dashboard UI (Data + Charts)  |
-| **Nike Ecommerce Website**      | Full Stack Nike Store -> Figma to Design.                |
-| **Armin Motors Showroom**       | Car Showroom UI Website                  |
-| **Bakery Website**              | Cute, Minimalist Online Bakery Design    |
-| **Elysium Blog**                | Clean and Stylish Blog Website           |
-| **Soulscript**                  | Islamic Blog Website for Reflections     |
+![Next.js](https://img.shields.io/badge/Next.js-BC1124?style=for-the-badge&logo=next.js&logoColor=ffffff)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-BC1124?style=for-the-badge&logo=tailwind-css&logoColor=ffffff)
+![OpenAI SDK](https://img.shields.io/badge/OpenAI%20SDK-BC1124?style=for-the-badge&logo=openai&logoColor=ffffff)
+![Typescript](https://img.shields.io/badge/Typescript-BC1124?style=for-the-badge&logo=typescript&logoColor=ffffff)
+![Python](https://img.shields.io/badge/Python-BC1124?style=for-the-badge&logo=python&logoColor=ffffff)
+![AgenticAI](https://img.shields.io/badge/AgenticAI-BC1124?style=for-the-badge&logoColor=ffffff)
+![FastAPI](https://img.shields.io/badge/FastAPI-BC1124?style=for-the-badge&logo=fastapi&logoColor=ffffff)
+![Node.js](https://img.shields.io/badge/Node.js-BC1124?style=for-the-badge&logo=node.js&logoColor=ffffff)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-BC1124?style=for-the-badge&logo=bootstrap&logoColor=ffffff)
+![Framer Motion](https://img.shields.io/badge/Framer%20Motion-BC1124?style=for-the-badge&logoColor=ffffff)
+![GitHub](https://img.shields.io/badge/GitHub-BC1124?style=for-the-badge&logo=github&logoColor=ffffff)
+![HTML](https://img.shields.io/badge/HTML-BC1124?style=for-the-badge&logo=html5&logoColor=ffffff)
+![CSS](https://img.shields.io/badge/CSS-BC1124?style=for-the-badge&logo=css&logoColor=ffffff)
+![CMS](https://img.shields.io/badge/CMS-BC1124?style=for-the-badge)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-BC1124?style=for-the-badge&logoColor=ffffff)
+![Specs Driven Development](https://img.shields.io/badge/Specs%20Driven%20Development-BC1124?style=for-the-badge&logoColor=ffffff)
 
 
 ---
 
-###  GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dua-Fatima-khan&show_icons=true&theme=tokyonight&hide_border=true" width="450" />
-<p align="center">
-
-</div>
+### Fun Fact 💗
+ I talk to my code more than people sometimes 🌸
 
 ---
 
-###  Contribution Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dua-Fatima-khan&theme=react-dark&area=true&hide_border=true" />
-</p>
+## My Current Projects Highlights
+
+###  AI & Robotics Book with RAG Chatbot
+![Python](https://img.shields.io/badge/Python-BC1124?style=for-the-badge&logo=python&logoColor=ffffff)
+![Agentic AI](https://img.shields.io/badge/AgenticAI-BC1124?style=for-the-badge)
+![Docosauras](https://img.shields.io/badge/Docosauras-BC1124?style=for-the-badge)
+
+An **AI-powered interactive book** created using **Docosauras** with a **RAG chatbot** powered by **Agentic AI & Python**.  
+It delivers **instant answers**, supports **multilingual AI**, and makes learning accessible for everyone.  
+
+🔗 [Check it out here](https://df-ai-robotics-book.vercel.app)
+
+
+
+### Room Matcher AI
+![GenKit](https://img.shields.io/badge/Genkit-BC1124?style=for-the-badge&logo=Genkit)
+![Next.js](https://img.shields.io/badge/AgenticAI-BC1124?style=for-the-badge)
+![Typescript](https://img.shields.io/badge/Typescript-BC1124?style=for-the-badge&logo=typescript&logoColor=ffffff)
+
+Built with **Python & Next.js**, this project helps you **find your ideal room match** and **check compatibility** with your future roommate.  
+Perfect for students and co-living situations.  
+
+🔗 [Check it out here](https://next-door-mate-home.vercel.app/home)
 
 ---
 
-###  Let's Connect 🤍
+> Ideas don’t sleep.. neither do I, until they become real.
 
-<p align="center">
-  <!-- Gmail -->
-  <a href="mailto:officialduafatima64648@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
+---
+## Let’s Connect 🌸
+I love Talking about **AI, web dev, startups, and ideas**.  
+- Email: [officialduafatima64648@gmail.com](mailto:officialduafatima64648@gmail.com)  
+- DM me on LinkedIn: [Dua Fatima](https://www.linkedin.com/in/dua-fatima-906208258/)  
 
-  <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/dua-fatima-906208258/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
 
-  <!-- GitHub -->
-  <a href="https://github.com/Dua-Fatima-khan">
-    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
+Are you a **student stuck on projects or learning tech**?  
+Or do you want me to **create web apps / AI projects for you**?  
 
-  <!-- Coder's School YouTube -->
-  <a href="https://lnkd.in/dTsGprNn">
-    <img src="https://img.shields.io/badge/Coder's School YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube - Coder's School">
-  </a>
+I offer **free 1:1 consultation** to help you get unstuck and bring your ideas to life.  
 
-  <!-- Fushoor Al Islam YouTube -->
-  <a href="https://lnkd.in/dZrP22g4">
-    <img src="https://img.shields.io/badge/Fushoor Al Islam-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube - Fushoor Al Islam">
-  </a>
+- **Contact me on WhatsApp:** [+92 317 2065808](https://wa.me/923172065808)  
 
-  <!-- Medium -->
-  <a href="https://lnkd.in/dfuaX2G5">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium">
-  </a>
+---
 
+## Follow me !!
   <!-- WhatsApp Channel -->
   <a href="https://lnkd.in/dnA9BA9A">
-    <img src="https://img.shields.io/badge/WhatsApp Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Channel">
+    <img src="https://img.shields.io/badge/WhatsApp Channel-BC1124?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Channel">
   </a>
 
   <!-- Instagram -->
   <a href="https://lnkd.in/dfbCMyYj">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+    <img src="https://img.shields.io/badge/Instagram-BC1124?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
-</p>
+   <!-- Medium -->
+  <a href="https://lnkd.in/dfuaX2G5">
+    <img src="https://img.shields.io/badge/Medium-BC1124?style=for-the-badge&logo=medium&logoColor=white" alt="Medium">
+  </a>
+    <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/dua-fatima-906208258/">
+    <img src="https://img.shields.io/badge/LinkedIn-BC1124?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
 
 
 ---
 
-###  Signature 💖
+
+###  Thank You 💗
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=30&duration=4000&pause=800&color=ff8aa1&center=true&vCenter=true&width=700&height=60&lines=~+Created+by+Dua+Fatima+~" alt="Footer Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&size=40&duration=4000&pause=800&color=ffffff&center=true&vCenter=true&width=700&height=50&lines=~+Created+by+Dua+Fatima+~" alt="Footer Typing SVG" />
   <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFB6C1&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=BC1124&height=100&section=footer"/>
 </p>
 </p>
